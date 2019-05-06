@@ -1,0 +1,5 @@
+0. Progress Folders Info
+
+The Course Theme Progress Folders and Files are here to help you check your code as you advance to new lectures in the course.
+
+Each coding lecture will include a download for the completed code from the previous lecture and the number at the beginning of the file name represents the lecture number in the course it is attached to.

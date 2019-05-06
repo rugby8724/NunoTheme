@@ -1,0 +1,12 @@
+Nuno Theme Video Landing Page Resources:
+
+
+Free Stock (Mp4) Videos with Pexels.com:
+https://videos.pexels.com/
+
+
+Mp4 to WebM Converter:
+https://cloudconvert.com/mp4-to-webm
+
+For best practices with browser compatibility, use both Mp4 and WebM files for your video.
+

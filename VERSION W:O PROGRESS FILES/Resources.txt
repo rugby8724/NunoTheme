@@ -1,0 +1,55 @@
+Resources
+
+Sublime Text:
+https://www.sublimetext.com/
+
+Bootstrap:
+https://getbootstrap.com/
+
+Pexels:
+https://www.pexels.com/
+
+Font Awesome:
+https://fontawesome.com/
+
+Google Fonts:
+https://fonts.google.com/
+
+Color Hex:
+http://www.color-hex.com/
+
+Pine Tools:
+https://pinetools.com/
+
+Animate.css:
+https://daneden.github.io/animate.css/
+
+
+Sublime Text - Select All Instances:
+Find -> Quick Find All
+Mac: Control + Command + G
+PC: Alt + F3
+
+_
+
+How To Publish Your Website Online:
+
+(See the last video of the Course or watch on YouTube)
+https://www.youtube.com/watch?v=CPHN7-6f5jA&t
+
+
+Web Hosting (recommended):
+
+Blue Host:
+https://www.bluehost.com/track/w3newbie
+
+_
+
+Local Servers for PHP section of Course:
+
+Local By Flywheel:
+https://local.getflywheel.com/
+
+MAMP:
+https://www.mamp.info/en/
+
