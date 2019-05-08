@@ -6,15 +6,35 @@
         <meta name="viewport" content="width=device-width, initial-scale-1">
         <title>Nuno - Responsive Bootstrap Theme</title>
         <link rel="shortcut icon" href="{% static '/nunotheme/images/favicon.ico' %}">
-
+        <!-- BootStrap4 -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
+        <!-- CSS Sheets -->
+        <link rel="stylesheet" href="{% static '/nunotheme/css/animate.css' %}">
+        <link rel="stylesheet" href="{% static '/nunotheme/css/arrow.css' %}">
+        <link rel="stylesheet" href="{% static '/nunotheme/css/fixed.css' %}">
+        <link rel="stylesheet" href="{% static '/nunotheme/css/lightbox.css' %}">
         <link rel="stylesheet" href="{% static '/nunotheme/css/master.css' %}">
+        <link rel="stylesheet" href="{% static '/nunotheme/css/owl.carousel.css' %}">
+        <link rel="stylesheet" href="{% static '/nunotheme/css/owl.theme.default.css' %}">
+        <link rel="stylesheet" href="{% static '/nunotheme/css/waypoint.css' %}">
     </head>
-    <body>
+    <body data-spy="scroll" data-target="#navbarResponsive">
         {% block content %}
         {% endblock %}
-
+    <!-- Script Source files -->
+    <script src="{% static 'nunotheme/js/jquery-3.3.1.min.js' %}"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="{% static 'nunotheme/js/contact.js' %}"></script>
+    <script src="{% static 'nunotheme/js/jquery.counterup.js' %}"></script>
+    <script src="{% static 'nunotheme/js/jquery.waypoint.min.js' %}"></script>
+    <script src="{% static 'nunotheme/js/lightbox.js' %}"></script>
+    <script src="{% static 'nunotheme/js/customer.js' %}"></script>
+    <script src="{% static 'nunotheme/js/owl.carousel.js' %}"></script>
+    <script src="{% static 'nunotheme/js/validator.js' %}"></script>
+    <script src="{% static 'nunotheme/js/waypoint.js' %}"></script>
+    <script src="{% static 'nunotheme/js/master.js' %}"></script>
+    <!-- End of Scrip Source Files -->
     </body>
 </html>
