@@ -338,6 +338,21 @@ img.example-image {
     background: #1ebba3!important;
 }
 
+/*============ Skill Section =============*/
+
+.skill h3{
+    color: #1ebba3;
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 1rem 0 .5rem;
+}
+
+.skill p{
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
 /*============ BOOTSTRAP BREAK POINTS:
 
 Extra small (xs) devices (portrait phones, less than 576px)
