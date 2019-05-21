@@ -86,3 +86,13 @@ $(document).ready(function(){
     }
 );
 });
+
+
+/*========== MEET THE TEAM ==========*/
+
+$(document).ready(function() { //when document is ready
+        $('.counter').counterUp({
+            delay: 10, //delay in milliseconds per count up
+            time: 5800 //total time taken by the animation
+        });
+    });
