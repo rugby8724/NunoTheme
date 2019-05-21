@@ -88,7 +88,7 @@ $(document).ready(function(){
 });
 
 
-/*========== MEET THE TEAM ==========*/
+/*========== Skills Counter ==========*/
 
 $(document).ready(function() { //when document is ready
         $('.counter').counterUp({
@@ -96,3 +96,25 @@ $(document).ready(function() { //when document is ready
             time: 5800 //total time taken by the animation
         });
     });
+
+/*========== Clients Carousel ==========*/
+
+$(document).ready(function(){
+    $("#clients-slider").owlCarousel({
+        items:2,
+        autoplay:true,
+        smartSpeed:1700,
+        loop:true,
+        autoplayHoverPause:true,
+        responsive: {
+            0 : {
+                items: 1
+            },
+            768: {
+                items: 2
+            }
+        }
+
+    }
+);
+});
